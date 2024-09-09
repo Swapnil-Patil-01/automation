@@ -1,5 +1,7 @@
 package testCases;
-	import org.testng.Assert;
+	import java.time.Duration;
+
+import org.testng.Assert;
 	import org.testng.annotations.Test;
 	import pageObjects.HomePage;
 	import pageObjects.LoginPage;
@@ -7,16 +9,19 @@ package testCases;
 	import testBase.BaseClass;
 
 	public class TC004_gitprac  extends BaseClass {
-
+		
+		
 		@Test (groups= {"regression","master"})
 		public void verifyLogin() {
 			logger.info("*****TC002_LoginPage*****");
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		
-//			try {
+			try {
 			//HomePage
 			HomePage hp= new HomePage(driver);
 			hp.clickMyAccount();
 			hp.clickLogin();
+			
 			
 			
 			//LoginPage
@@ -31,10 +36,10 @@ package testCases;
 			boolean status =map.isMyAccountPageExist();
 			Assert.assertTrue(status);
 			
-//			}
-//			catch(Exception e) {
-//				Assert.fail();
-//			}
+			}
+			catch(Exception e) {
+				Assert.fail();
+			}
 //			logger.info("*****Finished TC002_LoginPage*****");
 		
 	}
