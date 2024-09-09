@@ -13,10 +13,12 @@ public class TC002_LoginTest extends BaseClass {
 	@Test (groups= {"regression","master"})
 	public void verifyLogin() {
 		logger.info("*****TC002_LoginPage*****");
-		
+	
 		try {
 		//HomePage
 		HomePage hp= new HomePage(driver);
+		hp.clickMyAccount();
+		hp.clickLogin();
 		hp.clickMyAccount();
 		hp.clickLogin();
 		
