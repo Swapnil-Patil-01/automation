@@ -14,7 +14,7 @@ import org.testng.Assert;
 		@Test (groups= {"regression","master"})
 		public void verifyLogin() {
 			logger.info("*****TC002_LoginPage*****");
-			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		
 			try {
 			//HomePage
