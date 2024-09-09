@@ -19,8 +19,7 @@ public class TC002_LoginTest extends BaseClass {
 		HomePage hp= new HomePage(driver);
 		hp.clickMyAccount();
 		hp.clickLogin();
-		hp.clickMyAccount();
-		hp.clickLogin();
+		
 		
 		//LoginPage
 		LoginPage lp= new LoginPage(driver);
