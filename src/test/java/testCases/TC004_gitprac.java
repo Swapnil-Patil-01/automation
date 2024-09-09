@@ -28,7 +28,7 @@ import org.testng.Assert;
 			LoginPage lp= new LoginPage(driver);
 			lp.setEmail(p.getProperty("email"));
 			lp.setPassword(p.getProperty("password"));
-//			Thread.sleep(5000);
+			Thread.sleep(5000);
 			lp.clickLoginButton();
 			
 			//MyAccountPage
