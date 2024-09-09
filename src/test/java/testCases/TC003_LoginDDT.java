@@ -64,6 +64,7 @@ public class TC003_LoginDDT extends BaseClass{
 		}
 		
 		logger.info("*****Finished verify_LoginDDT*****");
+		logger.info("*****Finished verify_LoginDDT*****");
 		
 	}
 }
