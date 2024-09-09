@@ -1,0 +1,403 @@
+14:18:12.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:18:12.178 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:18:12.217 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:18:12.218 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:18:12.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:18:12.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:18:12.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:18:12.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:18:12.301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:18:12.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:18:12.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:18:12.372 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:18:14.637 [main] INFO  testCases.TC003_LoginDDT - *****Finished verify_LoginDDT*****
+14:18:14.648 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:18:25.701 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:18:27.841 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:18:38.846 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:18:40.934 [main] INFO  testCases.TC003_LoginDDT - *****Finished verify_LoginDDT*****
+14:29:08.848 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml"
+14:29:09.193 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml
+
+14:29:13.520 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:13.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:13.525 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:14.654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:14.657 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:14.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:14.730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:14.733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:14.737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:14.818 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:14.821 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:14.823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:14.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:14.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:14.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:14.944 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:14.945 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:14.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:14.996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:14.999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.001 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.049 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.056 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.142 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.146 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.191 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.234 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.236 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.238 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.287 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.289 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.329 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.368 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.370 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.411 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.413 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.415 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.453 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.455 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.491 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.494 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.539 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.540 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:29:15.580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:29:15.581 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:29:15.653 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:29:17.908 [main] INFO  testCases.TC003_LoginDDT - *****Finished verify_LoginDDT*****
+14:29:17.914 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:29:29.063 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:29:31.200 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:29:42.383 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+14:29:44.749 [main] INFO  testCases.TC003_LoginDDT - *****Finished verify_LoginDDT*****
+14:29:44.760 [main] INFO  testCases.TC003_LoginDDT - *****verify_LoginDDT*****
+16:44:58.004 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+16:44:58.332 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+16:45:04.369 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+16:45:04.999 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+16:45:05.001 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+16:45:07.423 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+16:45:07.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:45:08.031 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+16:45:50.841 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+16:45:51.111 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+16:45:54.290 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+16:45:55.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+16:45:55.059 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+16:45:57.557 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+16:45:57.557 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:45:58.007 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+16:46:00.773 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+16:46:01.645 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+16:47:09.718 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+16:47:09.996 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+16:47:12.966 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+16:47:13.498 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+16:47:13.501 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+16:47:15.948 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+16:47:15.948 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:47:16.391 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+16:47:19.085 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+16:47:20.091 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+16:50:11.103 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+16:50:11.404 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+16:50:24.610 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+16:50:24.926 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+16:51:48.118 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+16:51:48.460 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+16:51:52.614 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+16:51:53.237 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+16:51:53.240 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+16:51:55.876 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+16:51:55.876 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+16:51:56.443 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+20:07:18.021 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+20:07:18.409 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+20:10:04.927 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+20:10:05.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+20:10:14.356 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+20:10:15.322 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+20:10:15.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+20:10:18.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+20:10:18.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:10:19.127 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+20:10:23.196 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:10:24.431 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+20:11:41.878 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+20:11:42.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+20:11:46.385 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+20:11:47.120 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+20:11:47.124 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+20:11:49.793 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+20:11:49.793 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:11:50.670 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+20:11:54.349 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:11:55.651 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+20:13:40.668 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+20:13:40.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+20:13:45.394 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+20:13:46.017 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+20:13:46.018 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+20:13:48.685 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+20:13:48.685 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:13:49.318 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+20:13:53.235 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:13:54.426 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+20:18:25.110 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+20:18:25.434 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+20:18:29.750 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+20:18:30.350 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+20:18:30.352 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+20:18:32.893 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+20:18:32.893 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:18:33.702 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+20:18:37.401 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:18:38.535 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+20:20:03.108 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+20:20:03.449 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+20:20:08.394 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+20:20:09.129 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+20:20:09.132 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+20:20:11.784 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+20:20:11.784 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:20:12.489 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+20:20:16.554 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:20:22.781 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+20:23:06.569 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+20:23:06.889 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+20:23:11.136 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+20:23:11.831 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+20:23:11.836 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+20:23:14.546 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+20:23:14.546 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:23:15.261 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+20:23:19.109 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:23:25.185 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+20:26:46.445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml"
+20:26:46.845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml
+
+20:26:51.171 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:26:57.412 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginPage*****
+20:29:17.068 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml"
+20:29:17.427 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml
+
+20:29:22.051 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:41:25.916 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml"
+20:41:26.259 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml
+
+20:41:30.846 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+20:58:57.322 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+20:58:57.634 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+20:59:02.448 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+20:59:03.124 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+20:59:03.126 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+20:59:05.887 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+20:59:05.887 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:59:06.536 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+20:59:10.911 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+21:01:43.455 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+21:01:43.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+21:01:48.234 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+21:01:48.942 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+21:01:48.946 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+21:01:51.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+21:01:51.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+21:01:52.280 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+21:01:56.117 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+21:02:52.496 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+21:02:52.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+21:02:57.201 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+21:02:57.932 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+21:02:57.934 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+21:03:00.594 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+21:03:00.595 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+21:03:01.332 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+21:03:05.194 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+13:52:56.127 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml"
+13:52:56.532 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml
+
+13:53:43.999 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml"
+13:53:44.274 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\master.xml
+
+13:53:51.784 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+13:54:30.924 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml"
+13:54:31.260 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml
+
+13:54:34.367 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+13:54:35.260 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+13:54:35.275 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+13:54:38.059 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+13:54:38.059 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:54:39.319 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+13:54:42.846 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+13:54:43.517 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+13:54:43.517 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+13:54:46.242 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+13:54:46.242 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:54:47.101 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+13:55:46.186 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml"
+13:55:46.542 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml
+
+13:55:52.110 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+13:55:52.121 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+13:55:53.152 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+13:55:53.155 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+13:55:53.180 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+13:55:53.181 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+13:55:56.455 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+13:55:56.456 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:55:56.460 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+13:55:56.460 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:55:57.756 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+13:55:58.070 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+13:56:22.134 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml"
+13:56:22.566 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml
+
+13:56:27.374 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+13:56:27.624 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+13:56:28.517 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+13:56:28.520 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+13:56:28.789 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+13:56:28.791 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+13:56:31.596 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+13:56:31.596 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:56:32.089 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+13:56:32.089 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+13:56:32.696 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+13:56:33.052 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+10:11:11.002 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml"
+10:11:11.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml
+
+10:12:08.723 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml"
+10:12:09.141 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml
+
+10:12:19.992 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+10:12:19.992 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+10:12:21.541 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+10:12:21.583 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+10:12:21.712 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+10:12:21.712 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+10:12:24.746 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+10:12:24.746 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:12:24.872 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+10:12:24.872 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:12:25.895 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+10:12:25.907 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+10:13:34.591 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+10:13:34.939 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+10:13:38.636 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+10:13:39.388 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+10:13:39.391 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+10:13:42.109 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+10:13:42.109 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:13:43.124 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+10:13:45.460 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+10:22:43.054 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+10:22:43.384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+10:22:46.630 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+10:22:47.450 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+10:22:47.455 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+10:22:50.277 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+10:22:50.278 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:22:51.162 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+10:22:53.592 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+10:28:25.333 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+10:28:25.727 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+10:35:26.126 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+10:35:26.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+10:35:29.695 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+10:35:30.354 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+10:35:30.356 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+10:35:32.918 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+10:35:32.918 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:35:34.097 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+10:35:36.691 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+10:37:21.447 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+10:37:21.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+10:37:24.790 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+10:37:25.555 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+10:37:25.559 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+10:37:28.193 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+10:37:28.193 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+10:37:29.201 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+10:37:31.669 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
+11:04:26.182 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml"
+11:04:26.542 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\OpenCartV121\grouping.xml
+
+11:04:30.057 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest*****
+11:04:30.909 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount and Register Page
+11:04:30.912 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing user details...
+11:04:33.468 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button...
+11:04:33.468 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:04:34.445 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+11:04:36.738 [main] INFO  testCases.TC002_LoginTest - *****TC002_LoginPage*****
