@@ -37,6 +37,6 @@ public class TC002_LoginTest extends BaseClass {
 		catch(Exception e) {
 			Assert.fail();
 		}
-		logger.info("*****Finished TC002_LoginPage*****");
+//		logger.info("*****Finished TC002_LoginPage*****");
 	}
 }
