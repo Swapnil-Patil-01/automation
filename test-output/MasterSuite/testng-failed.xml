@@ -7,19 +7,7 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="CHrome"/>
-    <groups>
-      <run>
-        <include name="master"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.TC002_LoginTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verifyLogin"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC002_LoginTest -->
       <class name="testCases.TC001_AccountRegistrationTest">
         <methods>
           <include name="tearDown"/>

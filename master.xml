@@ -11,14 +11,16 @@
 		<parameter name="browser" value="CHrome" />
 
 		<classes>
-			<!--<class name="testCases.TC001_AccountRegistrationTest"/> -->
-			 <class name="testCases.TC002_LoginTest"/>
+			<class name="testCases.TC001_AccountRegistrationTest"/> 
+			<class name="testCases.TC002_LoginTest"/>
 			<!--<class name="testCases.TC003_LoginDDT" /> -->
 		</classes>
-	</test> <!--
-	Test -->
+	</test>
 </suite> <!--
 Suite -->
 
 
-
+<!--  id password for jenkins
+		swapnil0110
+		Swap@7686
+  -->

@@ -59,7 +59,11 @@ public class BaseClass {
 			} else if (os.equalsIgnoreCase("mac")) {
 				options.setPlatformName(Platform.MAC.name());
 				edgeOptions.setPlatformName(Platform.MAC.name());
-			} else {
+			} else if (os.equalsIgnoreCase("linux")) {
+				options.setPlatformName(Platform.LINUX.name());
+				edgeOptions.setPlatformName(Platform.LINUX.name());
+				
+			}else {
 				System.out.println("No matching OS");
 				return;
 			}
